@@ -1,1 +1,29 @@
-
+<html>
+<head>
+<title> NWIT101 Minecraft Pi Team Project </title>
+</head>
+<head>
+<title> PORJECT PROPOSAL: </title> 
+</head>
+<head>
+<body>
+<b> Team Members </b>
+<ul>
+	<li> Jan Guiao
+	<li> Dennis Ho
+	<li> Eden Fuango
+</ul>
+<b> Project Responsibilities </b>
+<ul>
+	<li> Jan Guiao: Journal, Proposal, Abstract, Website, Reports, Presentation/Lead Investigator
+	<li> Dennis Ho: Journal, Proposal, Abstract, Website, Reports, Presentation/Webmaster
+	<li> Eden Fuango: Journal, Proposal, Abstract, Website, Reports, Presentation/Logistics Coordinator
+</ul>
+<ul>
+<b> Project Description </b>
+</ul>
+<p> We will be exploring the virtual world of Minecraft Pi. We will introduce a first-time setup on how to install Minecraft Pi formerly and learning how to control the player,
+manually build with blocks and use the Python interface to make up the world (Using Python 3).We will also make our Minecraft Pi and tutorials available on the Internet. <br>
+<p> this is a new paragraph </p>
+</body>
+</html>
